@@ -1,0 +1,25 @@
+.title {
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 25px;
+  text-align: right;
+  color: #292929 !important;
+}
+
+.desc {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  text-align: right;
+  color: #474747 !important;
+}
+
+.background {
+  background: #f7f7f7;
+  border-radius: 24px;
+}
+
+.border{
+  border-bottom: 1px solid #AB8BD1;
+}
