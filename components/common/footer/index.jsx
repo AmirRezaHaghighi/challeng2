@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logo from "../../../public/images/logo.png";
+import logo from "../../../public/images/Logo.png";
 import sign1 from "../../../public/images/image 21.png";
 import sign2 from "../../../public/images/image 22.png";
 import send from "../../../public/images/send.svg";

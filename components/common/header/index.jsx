@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logo from "../../../public/images/logo.svg";
+import logo from "../../../public/images/Logo.svg";
 import categoryIcon from "../../../public/images/category.svg";
 import fireIcon from "../../../public/images/fire.svg";
 import searchIcon from "../../../public/images/search.svg";
