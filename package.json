@@ -16,15 +16,5 @@
     "react-dom": "18.2.0",
     "sass": "^1.57.1",
     "swiper": "^8.4.5"
-  },
-  "devDependencies": {
-    "eslint": "^8.30.0",
-    "eslint-config-prettier": "^8.6.0",
-    "eslint-plugin-prettier": "^4.2.1",
-    "eslint-plugin-react": "^7.32.0",
-    "prettier": "^2.8.3",
-    "lint": "eslint .",
-    "lint:fix": "eslint --fix",
-    "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc"
   }
 }
